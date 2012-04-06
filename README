@@ -1,11 +1,9 @@
+// USED jQuery Masonry http://masonry.desandro.com/
 
+At the moment, a majority of item blocks have 220px width.
 
+Experimented with 300px 400px and 440px.
 
+Live version can be viewed at:
 
-
-
-
-
-wut
-:wq
-
+http://jiggabits.github.com/MASONRY/
